@@ -1,0 +1,54 @@
+# Week One Research Questions
+
+### Skin Lesions
+- What types of skin lesions exist, and why is it important to distinguish between them for diagnosis?
+
+### Stakeholders
+- Who are the main stakeholders (patients, doctors, hospitals, government, system admins), and what are their roles in using such a model?
+
+### Model (CNN)
+- How does a Convolutional Neural Network (CNN) work for image classification?
+
+### Data Requirements
+- What requirements should a dataset meet (size, source, quality, variety, labelling) to be useful for developing a CNN?
+
+### Training
+- How is a CNN trained, and what challenges can occur during training?
+
+### Deeper Understanding / Limits
+- What are the main limitations of CNN models (in diagnosing skin cancer)?
+
+### Data Quality / Assessment
+- How do data quality factors (size, source, labelling, variety, representation) affect model performance?
+
+### Performance Measures
+- What performance measures (accuracy, sensitivity, specificity, consistency) are used to assess the model, and how do they differ from each other?
+
+### Interpret Results
+- How can CNN predictions be interpreted and presented in a way that is meaningful and useful for doctors and patients?
+
+
+# Week Two Research Questions
+
+### Data Labelling
+- How is the data labelled, and who performed the labelling?
+
+### Research Datasets
+- What is the HAM10000 dataset, and what other similar datasets exist for skin lesion classification?
+
+### Data Quality
+- How can we ensure the quality of the data in terms of representativeness and image quality?
+- How can data science methodology be applied to maintain and assess dataset quality?
+
+### Implementation Options
+- What are the possible implementation approaches?
+  - Models with tunable parameters
+  - Creating a model from scratch
+  - Using a pre-trained model and fine-tuning it
+
+### Gradient Concepts
+- What is the error gradient?
+- What is the vanishing gradient problem?
+
+### Scientific Literature
+- What problems have existing scientific papers on this topic encountered?
