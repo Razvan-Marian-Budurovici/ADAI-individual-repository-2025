@@ -1,6 +1,0 @@
-#Weekly reflections:
- - Week 1: Due to a misunderstanding i missed the lesson so i need to make sure to always check the schedule so i can attend consistently.
- - Week 2: I did not have very much material prepared for the meeting and was unable to contribute much to the discussion, i was asking questions and still was part of the conversation. For the upcoming weeks i need to adequately prepare the needed tasks.
- - Week 3: As the scribe this week i was able to take some notes, however i considered my notes to not be descriptive/detailed enough so i need to focus more on the conclusion of the discussion.
- - Week 4: I was able to research and understand what is an EDA so i can successfully make one for the portfolio. I had to leave my QA task on the presentation till later in the week so give me group time to add to it before i make changes, however this resulted in a lot of wasted time so i need to organize the tasks better with the group so this does not happen again.
- - Week 5: I managed to discuss better task organization with the group and focus better on helping with the presentation. This week i lacked any progress on the building of the models and documenting the dataset so i need to remember to try and make more progress in this technical area.
