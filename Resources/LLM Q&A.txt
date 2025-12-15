@@ -1,0 +1,18 @@
+Q: how to predict the best stock
+
+A: confused. What is this question? (maybe: by using a predictive model instead of an LLM the feeding the results to an LLM to have them explained in plain text)
+
+Q: how to integrate LLM in Pipeline
+
+A: best use for an  LLM would probably be to explain the results of a predictive model
+
+Q: how should the dataset be spit into training/validation/test data ? For example per year?
+
+A: ideally to have seasonality each month would be a datapoint, but with so little training data, solutions would include: 
+- bundling months from the same season together (instead of predicting for December you predict for a month in the winter) where each season could have 9 months of data (3 years * 3 months per season) so we could have 5 months * 4 seasons (datapoints) for training 2 * 4 for validation and 2 * 4 for testing (20 + 8 + 8), this would need the month to be labeled for their season
+- we could forgo seasonality due to lack of data, then out of 36 months we use 18 for training 9 for validation and 9 for testing
+- another option could be to generate some mock data to train the predictive model to solve the lack of data issue, but this is unreliable and creates unrealistic results
+
+Q: which time period should be predicted in advance?
+
+A: the model should probably predict around 2 months in advance to allow time for logistics
