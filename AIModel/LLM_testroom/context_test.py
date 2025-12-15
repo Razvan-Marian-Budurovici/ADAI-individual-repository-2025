@@ -14,7 +14,7 @@ SYSTEM_CONTEXT = (
 
 config = genai.types.GenerateContentConfig(
     system_instruction=SYSTEM_CONTEXT,
-    max_output_tokens=300
+    max_output_tokens=500
 )
 
 prompt = "who are you? also: -35 item_1, 14 item_2, -86 item_3"
